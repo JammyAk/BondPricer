@@ -10,6 +10,7 @@ A floating-rate bond pays a coupon that varies with a reference interest rate, s
 <img width="303" alt="Screenshot 2024-08-15 at 11 01 33" src="https://github.com/user-attachments/assets/0dfde79b-33a9-48c6-8d44-bb7dc91d0182">
 
 Bond Pricing with Yield Curve - Instead of using a single yield (YTM) for discounting, you can use a yield curve, where each cash flow is discounted using a different rate corresponding to its maturity.
+
 <img width="303" alt="Screenshot 2024-08-15 at 11 01 33" src="https://github.com/user-attachments/assets/42257d5b-94a0-4a64-a72d-cbf3d5b7f152">
 
 
